@@ -45,11 +45,6 @@ Este projeto foi desenvolvido para praticar:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-
-
-
 
 ## 👨‍💻 Autor
 Desenvolvido por Rafa Santana
