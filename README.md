@@ -1,16 +1,32 @@
-# primeiro_app
+# 🌍 Explore Mundo
 
-A new Flutter project.
+Aplicativo Flutter desenvolvido como projeto acadêmico com foco em UI moderna e organização de layout.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Sobre o Projeto
 
-A few resources to get you started if this is your first Flutter project:
+O **Explore Mundo** é um aplicativo de destinos turísticos que apresenta:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Imagem principal do destino
+- Avaliação com estrelas
+- Botões de ação (Pacotes, Contato, Compartilhar)
+- Descrição informativa do local
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto marca a evolução da versão 1.0 para uma estrutura mais profissional (Projeto 2.0).
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## 📷 Preview do App
+<img width="75%" height="75%" alt="Captura de tela 2026-02-14 204050" src="https://github.com/user-attachments/assets/529f8299-a902-49f2-9ad0-b9c56941b99a" />
+
+
+
