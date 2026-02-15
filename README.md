@@ -1,19 +1,37 @@
-# 🌍 Explore Mundo
+<h1 align="center">🌍 Explore Mundo</h1>
 
-Aplicativo Flutter desenvolvido como projeto acadêmico com foco em UI moderna e organização de layout.
+<p align="center">
+Aplicativo Flutter desenvolvido como projeto acadêmico com foco em UI moderna e boas práticas.
+</p>
 
 ---
 
-## 📱 Sobre o Projeto
+## 📱 Demonstração
 
-O **Explore Mundo** é um aplicativo de destinos turísticos que apresenta:
+<p align="center">
+  <img width="75%" height="75%" alt="Captura de tela 2026-02-14 204050" src="https://github.com/user-attachments/assets/529f8299-a902-49f2-9ad0-b9c56941b99a" />
+</p>
 
-- Imagem principal do destino
-- Avaliação com estrelas
-- Botões de ação (Pacotes, Contato, Compartilhar)
-- Descrição informativa do local
+---
 
-Este projeto marca a evolução da versão 1.0 para uma estrutura mais profissional (Projeto 2.0).
+## 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido para praticar:
+
+- Estruturação de layout no Flutter
+- Organização de assets
+- Componentização básica
+- Uso de widgets do Material Design
+- Versionamento com Git e GitHub
+
+---
+
+## 🚀 Funcionalidades
+
+✔ Exibição de destino turístico  
+✔ Avaliação com estrelas  
+✔ Botões de ação (Pacotes, Contato, Compartilhar)  
+✔ Layout responsivo básico  
 
 ---
 
@@ -22,14 +40,17 @@ Este projeto marca a evolução da versão 1.0 para uma estrutura mais profissio
 - Flutter
 - Dart
 - Material Design
+- Git
+- GitHub
 
 ---
 
-## 📷 Preview do App
-<img width="75%" height="75%" alt="Captura de tela 2026-02-14 204050" src="https://github.com/user-attachments/assets/529f8299-a902-49f2-9ad0-b9c56941b99a" />
+## 📂 Estrutura do Projeto
 
 
-👨‍💻 Autor
 
+
+
+## 👨‍💻 Autor
 Desenvolvido por Rafa Santana
 
